@@ -1,11 +1,10 @@
-# Website App Crash Reporter
+# Website/App Crash Reporter
 
-## Title and Description
-**Project Name**: Website App Crash Reporter  
-**Description**: The Website App Crash Reporter is a collection of Python scripts designed to streamline the process of extracting, classifying, and summarizing tweets related to website and app crashes. By leveraging OpenAI's natural language processing capabilities and integrating with Microsoft Teams, this toolkit provides a comprehensive solution for monitoring and analyzing user-reported issues on social media platforms, resulting in saving 100 hours of manual work every month.
+## Description
+The Website/App Crash Reporter is a collection of Python scripts designed to streamline the process of extracting, classifying, and summarizing tweets related to website and app crashes. By leveraging OpenAI's natural language processing capabilities and integrating with Microsoft Teams, this toolkit provides a comprehensive solution for monitoring and analyzing user-reported issues on social media platforms, resulting in saving 100 hours of manual work every month.
 
 ## Introduction
-The Website App Crash Reporter aims to revolutionize the way operation teams handle user-reported issues on social media platforms. By automating the extraction, classification, and summarization of relevant tweets, this toolkit eliminates the need for manual monitoring and analysis, saving 100 hours of manual work every month. 
+The Website/App Crash Reporter aims to revolutionize the way operation teams handle user-reported issues on social media platforms. By automating the extraction, classification, and summarization of relevant tweets, this toolkit eliminates the need for manual monitoring and analysis, saving 100 hours of manual work every month. 
 
 ## Technologies Used
 - Python
