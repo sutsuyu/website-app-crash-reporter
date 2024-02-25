@@ -63,8 +63,6 @@ The Website/App Crash Reporter is a collection of Python scripts designed to str
   - Evaluates the model performance of the tweet classification process.
 
 ## Example Data
-To help users understand how the scripts work, we provide example input data in the form of JSON files containing tweets. Additionally, we include the expected output, which is a CSV file containing the extracted tweets from the input JSON files.
-
 - **Input Data**:
   - `data/tweets1.json` to `data/tweets5.json`: Sample JSON files containing tweets.
 
@@ -77,7 +75,9 @@ To help users understand how the scripts work, we provide example input data in 
   - "A man who sued #Powerball and the #DCLottery for their website #error that showed he had the #winning numbers, making him believe he would receive $340 million last year, will
 
 ## Challenges and Learnings
-- Collection of dataset due to lack of access to Twitter API at the moment (due to financial reasons), so scraped tweets from JSON files acquired from the web.
+- Collection of dataset due to lack of access to Twitter API at the moment (due to financial reasons)
+  - Extracted tweet data from JSON responses obtained via web scraping.
+  - Additionally, needed to construct tweets URLs as no full URLs were found in the JSON files.
 
 ## Future Plans
 - [ ] Cover other languages, which has been proven to be working.
