@@ -9,10 +9,13 @@ The Website/App Crash Reporter is a collection of Python scripts designed to str
 The Website/App Crash Reporter aims to revolutionize the way operation teams handle user-reported issues on social media platforms. By automating the extraction, classification, and summarization of relevant tweets, this toolkit eliminates the need for manual monitoring and analysis, saving 100 hours of manual work every month. 
 
 ## Built With
-- Python
-- OpenAI API
-- Requests library
-- Microsoft Teams webhook
+
+- [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+- [![OpenAI](https://img.shields.io/badge/OpenAI-FF6600?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+- [![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=requests&logoColor=white)](https://docs.python-requests.org/en/latest/)
+- ![Webhook](https://img.shields.io/badge/Webhook-FFB6C1?style=for-the-badge&logo=webhook&logoColor=white)
+- [![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software)
+
 
 ## Contents
 - **tweets_scraping.py**: Python script for scraping tweets from JSON files and extracting them into a CSV file.
