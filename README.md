@@ -1,12 +1,14 @@
 # Website/App Crash Reporter
 
+![Report Summary](report_summary.png)
+
 ## Description
 The Website/App Crash Reporter is a collection of Python scripts designed to streamline the process of extracting, classifying, and summarizing tweets related to website and app crashes. By leveraging OpenAI's natural language processing capabilities and integrating with Microsoft Teams, this toolkit provides a comprehensive solution for monitoring and analyzing user-reported issues on social media platforms, resulting in saving 100 hours of manual work every month.
 
 ## Introduction
 The Website/App Crash Reporter aims to revolutionize the way operation teams handle user-reported issues on social media platforms. By automating the extraction, classification, and summarization of relevant tweets, this toolkit eliminates the need for manual monitoring and analysis, saving 100 hours of manual work every month. 
 
-## Technologies Used
+## Built With
 - Python
 - OpenAI API
 - Requests library
@@ -43,16 +45,10 @@ To help users understand how the scripts work, we provide example input data in 
 - **Expected Output**:
   - `extracted_tweets.csv`: CSV file containing the extracted tweets from the input JSON files.
 
-## Example Reports
-### 1. Tweets Reporting Issues
-Example tweets (maybe/maybe not) reporting issues:
-- "Maybe it's time to hire new web developers. The Morocco-Portugal website won't let you log in. Always the same error 'mandatory field cannot be left blank' although I fill that field."
-- "@SBICard_Connect The fix from your team only lasted for 1 day and now again I am facing the same issue and cannot login to my account. Tried the app as well as the website but getting the same error."
-- "A man who sued #Powerball and the #DCLottery for their website #error that showed he had the #winning numbers, making him believe he would receive $340 million last year, will head for a #court hearing this week. #dc #lawsuit #powerballlawsuit #court [Link to Article]"
-  
-### 2. Generated Summary
-![Report Summary](report_summary.png)
-
+- **Example tweets (maybe/maybe not) reporting issues**:
+  - "Maybe it's time to hire new web developers. The Morocco-Portugal website won't let you log in. Always the same error 'mandatory field cannot be left blank' although I fill that field."
+  - "@SBICard_Connect The fix from your team only lasted for 1 day and now again I am facing the same issue and cannot login to my account. Tried the app as well as the website but getting the same error."
+  - "A man who sued #Powerball and the #DCLottery for their website #error that showed he had the #winning numbers, making him believe he would receive $340 million last year, will head for a #court hearing this week. #dc #lawsuit #powerballlawsuit #court [Link to Article]"
 
 ## Challenges and Learnings
 - Collection of dataset due to lack of access to Twitter API at the moment (due to financial reasons), so scraped tweets from JSON files acquired from the web.
