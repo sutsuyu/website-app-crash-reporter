@@ -54,6 +54,6 @@ To help users understand how the scripts work, we provide example input data in 
 - Collection of dataset due to lack of access to Twitter API at the moment (due to financial reasons), so scraped tweets from JSON files acquired from the web.
 
 ## Future Plans
-- [] Cover other languages, which has been proven to be working.
-- [] Expand to "predicting" website crashes based on tweets about big events/releases.
-- [] Fine-tune classification models.
+- [ ] Cover other languages, which has been proven to be working.
+- [ ] Expand to "predicting" website crashes based on tweets about big events/releases.
+- [ ] Fine-tune classification models.
