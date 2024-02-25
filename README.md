@@ -18,11 +18,11 @@ The Website/App Crash Reporter aims to revolutionize the way operation teams han
 
 
 ## Contents
-- **tweets_scraping.py**: Python script for scraping tweets from JSON files and extracting them into a CSV file.
-- **tweets_classification.py**: Python script for predicting website/app crashes based on tweet content.
-- **tweets_issues_summary.py**: Python script for generating a summary of tweets indicating website/app crashes.
-- **send_to_teams.py**: Python script for sending tweet summaries to Microsoft Teams.
-- **performance_evaluation.py**: Python script for evaluating the performance of the tweet summarization process.
+- `tweets_scraping.py`: Python script for scraping tweets from JSON files and extracting them into a CSV file.
+- `tweets_classification.py`: Python script for predicting website/app crashes based on tweet content.
+- `tweets_issues_summary.py`: Python script for generating a summary of tweets indicating website/app crashes.
+- `send_to_teams.py`: Python script for sending tweet summaries to Microsoft Teams.
+- `performance_evaluation.py`: Python script for evaluating the performance of the tweet summarization process.
 
 ## Features
 - **Tweet Scraping**:
