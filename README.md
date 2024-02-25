@@ -15,7 +15,7 @@ The Website/App Crash Reporter is a collection of Python scripts designed to str
 
 ## Solutions
 
-- Leveraging OpenAI's natural language processing capabilities and integrating with Microsoft Teams to streamline the process of extracting, classifying, and summarizing tweets related to website and app crashes.
+- Leveraging OpenAI's NLP capabilities and integrating with Microsoft Teams to streamline the process of extracting, classifying, and summarizing tweets related to website and app crashes.
 
 ## Outcome
 
